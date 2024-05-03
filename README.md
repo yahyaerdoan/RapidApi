@@ -2,8 +2,10 @@
 ## 
 Completed this project by M&Y Yazılım Eğitim Akademi Danışmanlık and by Murat Yücedağ training.
 - Completed my Rapid Api project that developed with ASP.NET Core Mvc.
+- The main purpose of the Rapid Api Project is to list the hotels dynamically retrieved from the Rapid API and their details can be viewed.
 
 ## Technologies:
+- Rapid Api
 - C#
 - .NET Core 6
 - Mvc
